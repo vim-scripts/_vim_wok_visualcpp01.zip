@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=66
+
+Some key extensions, which simulate MS Visual Studio C++ behaviour under VIM. E.g. CTRL-F2 sets/unsets anonymous marks on current line, F2 jumps to next mark. HOME toggles cursorpos between first column of line and first non-white-char on current line. TAB indents all currently selected lines by one shiftwidth (SHIFT-TAB unindents). CTRL-SPACE does keyword completion.
+Even people who never used (or will use) the MS IDE, these key bindings make some tasks quicker/simpler... Just try the CTRL-F2 / F2 feature and you'll love it. Same for the new HOME behaviour.
+This is my first VIM script, so don't blame me, if things work in even more simple ways... just drop me an email - and tell me how!
